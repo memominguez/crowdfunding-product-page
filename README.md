@@ -35,8 +35,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: Pending
-- Live Site URL: Pending
+- Solution URL:  [Github repository](https://github.com/memominguez/crowdfunding-product-page)
+- Live Site URL:  [Netlify](https://monitor-riser-funding.netlify.app)
+
 
 ## My process
 
