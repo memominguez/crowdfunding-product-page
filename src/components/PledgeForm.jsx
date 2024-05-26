@@ -107,6 +107,7 @@ export default function PledgeForm({
                   <input
                     type="number"
                     min="25"
+                    autoFocus
                     value={bucksNoReward}
                     onChange={(e) => setBucksNoReward(e.target.value)}
                     className="w-[100px] h-12 rounded-full outline-none 
@@ -184,6 +185,7 @@ export default function PledgeForm({
                   <input
                     type="number"
                     min="25"
+                    autoFocus
                     value={bucksBamboo}
                     onChange={(e) => setBucksBamboo(e.target.value)}
                     className="w-[100px] h-12 rounded-full outline-none 
@@ -261,6 +263,7 @@ export default function PledgeForm({
                   <input
                     type="number"
                     min="75"
+                    autoFocus
                     value={bucksBlack}
                     onChange={(e) => setBucksBlack(e.target.value)}
                     className="w-[100px] h-12 rounded-full outline-none 
@@ -340,6 +343,7 @@ export default function PledgeForm({
                   <input
                     type="number"
                     min="200"
+                    autoFocus
                     value={bucksMahogany}
                     onChange={(e) => setBucksMahogany(e.target.value)}
                     className="w-[100px] h-12 rounded-full outline-none 
